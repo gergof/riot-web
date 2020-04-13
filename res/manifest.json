@@ -1,6 +1,6 @@
 {
-    "name": "Revolution",
-    "short_name": "Revolution",
+    "name": "chat.horse",
+    "short_name": "chat.horse",
     "display": "standalone",
     "theme_color": "#76CFA6",
     "start_url": "index.html",
