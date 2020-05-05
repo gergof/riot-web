@@ -70,7 +70,7 @@
     "highlight.js": "^9.13.1",
     "indexeddbshim": "^3.8.0",
     "matrix-js-sdk": "5.2.0",
-    "matrix-react-sdk": "2.3.1",
+    "matrix-react-sdk": "git+https://github.com/gergof/matrix-react-sdk.git",
     "olm": "https://packages.matrix.org/npm/olm/olm-3.1.4.tgz",
     "postcss-easings": "^2.0.0",
     "prop-types": "^15.7.2",
