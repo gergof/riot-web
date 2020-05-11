@@ -1,10 +1,10 @@
 {
   "name": "riot-web",
-  "productName": "Riot",
+  "productName": "chat.horse",
   "main": "src/electron-main.js",
   "version": "1.6.0",
   "description": "A feature-rich client for Matrix.org",
-  "author": "New Vector Ltd.",
+  "author": "New Vector Ltd. & ponies.im",
   "dependencies": {
     "auto-launch": "^5.0.1",
     "electron-store": "^2.0.0",
