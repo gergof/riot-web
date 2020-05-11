@@ -1,6 +1,6 @@
-chat.horse
+Riot++
 Copyright ponies.im 2018, 2019
-Copyright chat.horse 2020
+Copyright Riot++ 2020
 
 COOPERATIVE SOFTWARE LICENSE
 

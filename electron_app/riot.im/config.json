@@ -11,6 +11,7 @@
     "integrations_widgets_urls": ["https://dimension.t2bot.io/widgets"],
     "hosting_signup_link": "https://modular.im/?utm_source=riot-web&utm_medium=web",
     "bug_report_endpoint_url": "https://riot.im/bugreports/submit",
+    "showLabsSettings": true,
     "features": {
         "feature_sticker_messages": "enable",
         "feature_rich_quoting": "labs",
@@ -24,7 +25,6 @@
         "feature_squircle_avatars": "labs",
         "feature_super_compact": "labs",
         "feature_interplanetary_time": "labs",
-        "feature_nsfw_ponymotes": false,
         "feature_no_discord_colours": "labs",
         "feature_room_breadcrumbs": "enable",
         "feature_disable_mutant_standard": "labs",
